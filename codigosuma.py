@@ -1,3 +1,4 @@
+print('CONJENTURA DE COLLATZ')
 def collatz(n):
    print(int(n))
    if n == 1:
